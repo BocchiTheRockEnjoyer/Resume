@@ -96,6 +96,7 @@ ul li {
     flex-wrap: wrap;
     justify-content: center;
     gap: 10px;
+    padding: 0;
 }
 
 .skills-list li {
