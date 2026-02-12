@@ -35,6 +35,18 @@ header h1 {
     text-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
+h2 {
+    color: #000000;
+    font-size: 1.3rem;
+    border-bottom: 1px solid hsl(0, 0%, 0%); 
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
 .role {
     font-size: 1.3rem;
     color: #e2e8f0;
@@ -44,7 +56,12 @@ header h1 {
     text-transform: uppercase; 
 }
 
-
+footer {
+    text-align: center;
+    color: #4e5257;
+    font-size: 0.75rem;
+    border-top: 1px solid #858585;
+}
 
 
 
